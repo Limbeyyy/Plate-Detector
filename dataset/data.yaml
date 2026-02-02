@@ -1,0 +1,9 @@
+path: C:/Users/A C E R/OneDrive/Desktop/OCR Plate Detector/dataset
+
+train: C:/Users/A C E R/OneDrive/Desktop/OCR Plate Detector/dataset/images/train
+val: C:/Users/A C E R/OneDrive/Desktop/OCR Plate Detector/dataset/images/val
+test: C:/Users/A C E R/OneDrive/Desktop/OCR Plate Detector/dataset/images/val
+
+nc: 1
+names:
+  - Kataho_Plate

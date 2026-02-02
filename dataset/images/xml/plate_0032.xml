@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>plate_0032.jpeg</filename>
+	<path>C:\Users\A C E R\OneDrive\Desktop\OCR Plate Detector\dataset\images\train\plate_0032.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>521</xmin>
+			<ymin>441</ymin>
+			<xmax>1073</xmax>
+			<ymax>881</ymax>
+		</bndbox>
+	</object>
+</annotation>
