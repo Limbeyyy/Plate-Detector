@@ -1,10 +1,10 @@
-# License Plate Detector using YOLOv11
+# Kataho Plate Detector using YOLOv11
 
-A custom license plate detection system built with Ultralytics YOLO11 for detecting "Kataho_Plate" (Nepali license plates) in images, videos, and real-time webcam streams.
+A custom kataho plate detection system built with Ultralytics YOLO11 for detecting "Kataho_Plate" (Nepali license plates) in images, videos, and real-time webcam streams.
 
 ## 🚀 Features
 
-- **Custom YOLOv11 Training**: Train on your own license plate dataset
+- **Custom YOLOv11 Training**: Train on your own kataho plate dataset
 - **Multi-Source Inference**: Detect plates in images, videos, and webcam feeds
 - **Data Preprocessing Tools**: XML to YOLO format conversion, dataset validation
 - **Resume Training**: Continue training from checkpoints
